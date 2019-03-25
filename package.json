@@ -37,6 +37,7 @@
     },
     "homepage": "https://github.com/bad4iz/alive#readme",
     "dependencies": {
-        "three": "^0.102.1"
+        "three": "^0.102.1",
+        "three-trackballcontrols": "^0.0.7"
     }
 }
